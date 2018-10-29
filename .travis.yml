@@ -24,7 +24,7 @@ deploy:
   provider: heroku
   app: YOUR-HEROKU-APP-NAME-HERE # see README
   api_key:
-        secure: eesOfGXjRfuD0+t903/nK1XvPg5WushWKH7ySKY3yqIfFZMUYFk7iyoege1RBUIaNDpqmvGwiGq6
+    secure: eesOfGXjRfuD0+t903/nK1XvPg5WushWKH7ySKY3yqIfFZMUYFk7iyoege1RBUIaNDpqmvGwiGq6
     secure: 30hGelIEA1Mq8syoeGucxaJuYtum0yjMFibwTV8z5wVk7XbYWN9ViA5CirrWa4x3OndVaDNG8Moi
     secure: qUgCGFOQsV09oJXy4WFlIgOkMdCDQiik1GA/D6DsfIjgN28WHQQ8QFMAfeHt7W6Ft0lJUR6am/J9
     secure: BNBVJsfVN6oU9RsIFG0gEPc2IaJDZ9hrfFpG1zZB4lYfDF5W3oYAis/gN7HwTAfDlvinL1hB79n9
